@@ -1,0 +1,16 @@
+66b46e6cb47aa4a56574bf0c9800fbec *DESCRIPTION
+13845e9ed1195132143519b1d039b5e2 *LICENSE
+3b378b40113cec6c67dc22b03efcd8a7 *NAMESPACE
+fa8996280c4f04dced35041d46da1073 *R/RcppExports.R
+08d32a3d86360644b98d0e6d6c7483b1 *R/ammonia.R
+076346646f50e8a7d1616959c25ee645 *R/bodyfat.R
+b339cc74a46eb5a1540176efec2cd64e *R/dpqr-ugomquant.R
+02c50a906f89f5dd14e7c168036b2186 *R/ugomquantreg-package.R
+b9da18d5e46337ffc38d8f44647f9582 *data/ammonia.rda
+ac016d4175b8f749479056e061ffaf26 *data/bodyfat.rda
+d0322cd349bdd0d20a5d6b3820c6df5e *man/UGOM.Rd
+81e75316c07f9d0b8860e5c458c6b5aa *man/ammonia.Rd
+3cc4e920485b05f829e5c47cef68531a *man/bodyfat.Rd
+d244ebbaabea1f1c2fbe0c67036f76a1 *man/ugomquantreg-package.Rd
+c0fe2dd1b46f4d145304a1d59b89cf6f *src/RcppExports.cpp
+8a085f954436fc6667424f1bf644251c *src/ugompertz.cpp
